@@ -148,3 +148,10 @@ BigCo/
 * **Docker**: `docker-compose down -v && docker-compose up -d`
 
 ## Honeypot Front-end service
+
+A React + Tailwind application for interactive user and flag management:
+
+- **Add Users**
+- **Flag Users**
+- **View Flags** per user
+- **Clear Flags** per user
